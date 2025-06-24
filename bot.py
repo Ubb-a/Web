@@ -106,4 +106,4 @@ async def showroadmap(ctx, roadmap_name: str):
 
 import os
 
-bot.run(os.getenv("BOT_TOKEN"))
+bot.run("MTM4NzE5OTgyOTQ0ODU4OTM2Mw.GP3djp.UFMUHB81u_NRpso5T-5s_dR0v6n5zoLR-2pHI0")
