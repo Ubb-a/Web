@@ -104,4 +104,6 @@ async def showroadmap(ctx, roadmap_name: str):
 
     await ctx.send(msg)
 
-bot.run("YOUR_BOT_TOKEN")
+import os
+
+bot.run(os.getenv("BOT_TOKEN"))
